@@ -1,6 +1,8 @@
 ## Oioi! sou eu, Fláviota :)
 
 - Atualmente sou uma amadora no mundo mobile e desenvolvimento de Apps
+- Estudando Java e Kotlin para Android 
+- Apaixonada por tecnologia e inovação
 
 <div align="">
   <a href="https://github.com/Flaviota">
