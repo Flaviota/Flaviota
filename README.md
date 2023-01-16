@@ -1,33 +1,51 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%F046E311&size=22&width=450&lines=%3C+Hi!+It's+me!+Flávia!+%2F%3E;%3C+Welcome+to+my+github+profile+%2F%3E)](https://git.io/typing-svg)
 
-## Oioi! sou eu, Fláviota :)
+## Flávia Rodrigues
+  isso é apenas um teste
+  ##
 
-<div align="center">
-  <a href="https://github.com/Flaviota" target="_blank">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Flaviota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <!--STATUS DE LINGUAGEM-->
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviota&layout=compact&theme=dark&include_all_commits=true&count_private=true&cache_seconds=7000">
-  </a>
-</div>
-
-<div  align="center">
+    
+  <div  align="left">
   <br/>
   <img alt="kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>
   <img alt="java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
   <img alt="linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
   <img alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>
+  <img alt="java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  <img alt="linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  
 </div>
+    &nbsp;
 
-<hr/>
-<!-- just for fun -->
-<marquee>
-  <div align="center">
-    <img alt="android" height="30" src="https://icongr.am/devicon/android-plain.svg?size=139&color=3cc62a"/>
-    <p>ANDROID DEVELOPER</p> 
-  </div>
-</marquee>
-<hr/>
+   ### Other skills
+   <div  align="left">
+  <br/>
+  <img alt="kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>
+  <img alt="java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  <img alt="linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>
+  <img alt="java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
+  <img alt="linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+</div>
+    
+    
+   
+
+
+
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurspk&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flaviota&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+
 
 <div>
   <a href="mailto:" target="_blank">
