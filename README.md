@@ -39,7 +39,7 @@
 | :-: | :-: |
 
 <!-- contacts -->
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/linklinkedin)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/flaviaDev)
 [![Gmail badge](https://img.shields.io/badge/gmail-orange?logo=gmail&style=for-the-badge&logoColor=white)](mailto:flaviota.dev@gmail.com)
 [![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/flaviota_)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Flaviota)](https://www.instagram.com/flaviota_/)
