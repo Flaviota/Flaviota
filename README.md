@@ -37,20 +37,17 @@
 
 I love venturing into new learning, so every day I want to discover something new in the mobile universe. I am an advocate of open source projects, passionate about technology of all kinds and passionate about my ongoing studies.
 
-In the mobile universe, I develop for **Android** with solid knowledge in **Kotlin** and **Java** because I love the performance of native development. Still, in the future, I will try out the universe of **React Native** and **Flutter** as hybrid languages.
+In the mobile universe, I develop for **Mobile** with solid knowledge in **Kotlin** and **Java** because I love the performance of native development. Still, in the future, I will try out the universe of **React Native** and **Flutter** as hybrid languages.
 
-Creativity is something I love to explore and to expand that a bit further, I learn about JavaScript and its offshoots.
+Creativity is something I love to explore and to expand that a bit further, I learn about **JavaScript** and its offshoots.
 Soon I want to put here all my lovely projects and my ideas.
 There are many skills that I want to show and teach…
   
   
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@vcwild">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=vcwild&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
-    </a>
-</div>
+  </div>
  
-    
 </details>
 
 ---
@@ -60,7 +57,6 @@ There are many skills that I want to show and teach…
 <!-- contacts -->
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/flaviaDev)
 [![Gmail badge](https://img.shields.io/badge/gmail-orange?logo=gmail&style=for-the-badge&logoColor=white)](mailto:flaviota.dev@gmail.com)
-[![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/flaviota_)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flaviota)
   
   </div>
