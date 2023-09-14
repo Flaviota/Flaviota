@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <b> Android Developer | System Analyst </b>
+  <b> Mobile Developer </b>
 <br>
 <br>
   <!-- skills and languages -->
