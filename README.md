@@ -26,28 +26,20 @@
   ---
 
 
-<div align="right" style="margin:auto">
-     <a href="https://github.com/Flaviota">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaviota&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
-       alt="Most used languages" align="right">
-    </a>
-</div>
+
 
 
 
 I love venturing into new learning, so every day I want to discover something new in the mobile universe. I am an advocate of open source projects, passionate about technology of all kinds and passionate about my ongoing studies.
 
-In the mobile universe, I develop for **Mobile** with solid knowledge in **Kotlin** and **Java** because I love the performance of native development. Still, in the future, I will try out the universe of **React Native** and **Flutter** as hybrid languages.
+In the mobile universe, I develop for **Mobile** with solid knowledge in **Kotlin** and **Java** because I love the performance of native development. Still, in the future, I will try out the universe of **React Native** as hybrid languages.
 
 Creativity is something I love to explore and to expand that a bit further, I learn about **JavaScript** and its offshoots.
 Soon I want to put here all my lovely projects and my ideas.
 There are many skills that I want to show and teach…
   
   
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@vcwild">
-  </div>
- 
+
 </details>
 
 ---
