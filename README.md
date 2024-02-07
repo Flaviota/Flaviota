@@ -22,13 +22,7 @@
 <details closed>
 <summary>About me</summary>
   
-  
   ---
-
-
-
-
-
 
 I love venturing into new learning, so every day I want to discover something new in the mobile universe. I am an advocate of open source projects, passionate about technology of all kinds and passionate about my ongoing studies.
 
@@ -37,7 +31,6 @@ In the mobile universe, I develop for **Mobile** with solid knowledge in **Kotli
 Creativity is something I love to explore and to expand that a bit further, I learn about **JavaScript** and its offshoots.
 Soon I want to put here all my lovely projects and my ideas.
 There are many skills that I want to show and teach…
-  
   
 
 </details>
@@ -49,7 +42,6 @@ There are many skills that I want to show and teach…
 <!-- contacts -->
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/flaviaDev)
 [![Gmail badge](https://img.shields.io/badge/gmail-orange?logo=gmail&style=for-the-badge&logoColor=white)](mailto:flaviota.dev@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flaviota)
   
   </div>
 
