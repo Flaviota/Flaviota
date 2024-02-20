@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <b> Mobile Developer </b>
+  <b> Software Developer </b>
 <br>
 <br>
   <!-- skills and languages -->
