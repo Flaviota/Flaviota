@@ -1,5 +1,5 @@
 <div align="center">
-  <b>Software Developer</b>
+  <b>Software Developer and UI/UX Designer</b>
   <br><br>
   <blockquote>
     <p><i>Apaixonada por criar coisas novas</i></p>
