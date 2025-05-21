@@ -1,9 +1,6 @@
 <div align="center">
-  <b>Software Developer and UI/UX Designer</b>
+  <b>Frontend Developer</b>
   <br><br>
-  <blockquote>
-    <p><i>Apaixonada por criar coisas novas</i></p>
-  </blockquote>
 </div>
 
 <div>
