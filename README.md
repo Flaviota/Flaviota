@@ -1,5 +1,5 @@
 <div align="center">
-  <b>Frontend Developer</b>
+  <b>Developer</b>
   <br><br>
 </div>
 
